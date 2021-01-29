@@ -1,6 +1,7 @@
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
+{% highlight cpp %}
+int main(int argc, char** argv)
+{
+
+}
 {% endhighlight %}

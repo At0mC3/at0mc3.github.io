@@ -20,8 +20,8 @@ navigation:
  # - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Twitter, icon: envelope, url: "https://twitter.com/At0mC3"}
+  - {title: Github, icon: github, url: "https://github.com/At0mC3/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

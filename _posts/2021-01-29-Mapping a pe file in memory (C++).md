@@ -5,7 +5,7 @@ The format is well known and Microsoft has a quite good documentation about the 
 ![PEFormat](https://upload.wikimedia.org/wikipedia/commons/7/70/Portable_Executable_32_bit_Structure_in_SVG.svg)
 
 {% highlight cpp %}
-std::uint8 buffer = 
+std::uint8_t buffer = 
 {
 	4D 5A 90 00 03 00 00 00 04 00 00 00 FF FF 00 00 B8 00 00 00 
 	00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 

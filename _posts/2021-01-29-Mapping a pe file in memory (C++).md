@@ -2,4 +2,4 @@ I found myself trying to map a PE file in memory for one of my personal project 
 
 The format is well known and Microsoft has a quite good documentation about the file format but mapping the file properly isn't documented at all or the information is generally scattered around.
 
-![PEFormat](https://upload.wikimedia.org/wikipedia/commons/7/70/Portable_Executable_32_bit_Structure_in_SVG.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Portable_Executable_32_bit_Structure_in_SVG.svg" alt="drawing" width="800"/>
